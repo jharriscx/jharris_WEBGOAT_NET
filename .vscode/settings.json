@@ -1,0 +1,11 @@
+{
+    "cx.server": {
+        "url": "http://localhost/",
+        "alias": "localhost",
+        "username": "jharris",
+        "password": "97Uxtv/Bw3ecbExDPWaFk/I6Tra4gUqTvJmJdYw=",
+        "project_id": 10037,
+        "team_id": 1,
+        "project_name": "jharris_WEBGOAT_NET"
+    }
+}
