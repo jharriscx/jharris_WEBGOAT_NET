@@ -15,8 +15,9 @@ name: Checkmarx SCA Scan
 on:
   push:
     branches:
-      - main
-      - master
+      # - main
+      # - master
+      - other
     
 jobs:
   build:
