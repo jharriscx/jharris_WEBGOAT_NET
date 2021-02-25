@@ -4,8 +4,8 @@ name: CxFlow on push
 # events but only for the master branch
 on:
   push:
-    branches: [ master, main ]
-    # branches: [ patch-1 ]
+    # branches: [ master, main ]
+    branches: [ patch-1 ]
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel - this job is specifically configured to use the Checkmarx CxFlow Action
 jobs:
   # This workflow contains a single job called "build"
